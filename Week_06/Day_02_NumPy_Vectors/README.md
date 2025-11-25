@@ -215,8 +215,8 @@ class KNN:
 **Course Repository:** [AIO-2026](https://github.com/ThNgVN-DS/AIO-2026)  
 **Instructor:** Dr. Quang-Vinh Dinh  
 **Institution:** AI Việt Nam
+**Implemented by:** Nguyen Van Thuong
 
 ---
 
 *Last Updated: November 25, 2025*  
-*Status: Ready for Portfolio Review* ✅
